@@ -1,0 +1,22 @@
+...................................................
+System notes:
+...................................................
+
+partials messages is included in the admin, profile dashboards already
+
+but in the normal pages partial messages div should be included each time
+
+register and login do not include partial messages div as these provides the error status inline
+
+.end needs to be changed
+
+
+...................................................
+OAuth notes:
+...................................................
+
+facebook, twitter, google app id, site id and callback urls are supposed to be changed when the system will be deployed in the real srever 
+e.g. (http://localhost:8000 to http://realdomain.com...)
+
+
+

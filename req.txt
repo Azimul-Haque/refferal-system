@@ -1,0 +1,22 @@
+✓✓ registration and login system,
+
+referral system that will give the referer some point to each user they refer,
+
+a system that will allow user to like, and follow Facebook user or page,
+
+same as YouTube and twitter,
+
+each follow or like will give the user some point,
+
+✓ admin panel to control the registered users,
+
+in exchange to the point each user will get payout (for example for 1000point they will get 1$ payout)... this feature needs to be dynamic, i mean the admin can change how much money? user will get for a number of points.,
+
+✓✓ user registration will be confirmed by a confirmation mail,
+
+✓✓ in user profile, user can edit their name, phone number, profile photo, and the payout method,
+
+admin will pay each user manually so no need for make it automatic or dynamic,
+
+reference website: http:addmefast.com
+http://addmefast.com
