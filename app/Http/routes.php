@@ -28,7 +28,7 @@ Route::resource('/socialsite', 'SocialSitesController');
 
 Route::get('/socialsite/getpoint/{type_id}', ['uses' => 'SocialSitesController@getPoint', 'as' => 'socialsite.getpoint']);
 // social site controller
-// social site controller
+// social site controller    
 
 // User Controller
 Route::get('/profile', 'UserController@getIndex')->name('profile.index');
